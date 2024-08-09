@@ -4,7 +4,7 @@ metadata:
   name: "test-new"
   annotations:
     google.com/cloudbuild-project-slug: 'intern-infra'
-    google.com/cloudbuild-repo-name: test-new
+    google.com/cloudbuild-repo-name: rey-gdp-intern/test-new
 spec:
   type: service
   owner: group:sre
